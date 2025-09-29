@@ -34,9 +34,10 @@ src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" widt
 
 
 
-Frameworks & libraries	React.js
+Frameworks & libraries 
 
-Databases 	src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50"
+Databases <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
+
 
 Design	src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-
 src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>                                                                   
