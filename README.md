@@ -34,7 +34,7 @@ src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" widt
 
 
 
-Frameworks & libraries 
+Frameworks & libraries  https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png
 
 Databases <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
