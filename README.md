@@ -41,7 +41,7 @@ Databases <img width="48" height="48" src="https://img.icons8.com/fluency/48/mys
 
 Design	src=<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
-
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-photoshop-a-raster-graphics-editor-developed-and-published-by-adobe-logo-color-tal-revivo.png" alt="external-photoshop-a-raster-graphics-editor-developed-and-published-by-adobe-logo-color-tal-revivo"/>
 
 
 Data/Analytics	Excel Power BI
