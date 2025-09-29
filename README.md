@@ -79,7 +79,7 @@ Tech Stack: Python numpy pandas MySQL MySQL workbench Power BI Kaggle
 📈 GitHub Stats
 
 Showing my activity and contributions.
-
+https://github.com/ShaheemaIzzath/github-readme-activity-graph/blob/main/asset/merko.png
 
 ShaheemaIzzath's GitHub stats
 
