@@ -27,7 +27,7 @@ Category	Technologies
 
 Languages
   
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" 
+<img src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" 
 src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50"
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" 
 src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css.png" /> <img height="50" width="50" 
@@ -47,10 +47,7 @@ Design	src=<img width="48" height="48" src="https://img.icons8.com/color/48/figm
 
 
 
-Data/Analytics <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="48" height="48"  src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021--v1.png"/> Version control 
-
-
-
+Data/Analytics <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="48" height="48"  src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021--v1.png"/> 
 
 
 
