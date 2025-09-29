@@ -25,7 +25,7 @@ I enjoy building intuitive designs and analyzing data to find the best solutions
 
 Category	Technologies
 
-Languages	Java Python HTML CSS JavaScript
+Languages	Java  Python HTML CSS JavaScript <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 
 Frameworks & libraries	React.js
 
