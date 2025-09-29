@@ -46,7 +46,7 @@ Design	src=<img width="48" height="48" src="https://img.icons8.com/color/48/figm
 
 
 
-Data/Analytics <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  
+Data/Analytics <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  https://img.icons8.com/color/48/power-bi-2021.png
 
 
 
