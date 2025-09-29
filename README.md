@@ -74,9 +74,11 @@ Top Langs
 🌐 Connect With Me
 Let’s connect and build something amazing!)
 
-LinkedIn
+p class="has-line-data" data-line-start="60" data-line-end="63"><a href="linkedin.com/in/shaheema-izzath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a><br>
+<a href=""><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"></a><br>
+<a href="mailto:shaheemaizzath.designer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a></p>
 
-Portfolio
 
-Email
+
+
 
