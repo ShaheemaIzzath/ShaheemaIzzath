@@ -40,7 +40,7 @@ Databases <img width="48" height="48" src="https://img.icons8.com/fluency/48/mys
 
 
 Design	src=<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-
+<img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
 
 
 
