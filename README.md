@@ -1,4 +1,3 @@
-p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h1 p align="center"</h1>
  Hi there 👋  I’m Shaheema Izzath
@@ -6,6 +5,8 @@ p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation
 🎨 Aspiring UI/UX Designer and a Data Enthusiast
 
 I enjoy building intuitive designs and analyzing data to find the best solutions.
+
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 💻 About Me
