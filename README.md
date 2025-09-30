@@ -1,6 +1,6 @@
 
 
-Hi there 👋  I’m Shaheema Izzath
+ Hi there 👋  I’m Shaheema Izzath
 
 🎨 Aspiring UI/UX Designer and a Data Enthusiast
 
