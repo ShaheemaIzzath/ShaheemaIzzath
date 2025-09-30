@@ -1,14 +1,14 @@
 
 
-Hi there 👋 I’m Shaheema Izzath
+Hi there 👋 <h1>p align="center"</h1> I’m Shaheema Izzath
 
 🎨 Aspiring UI/UX Designer and a Data Enthusiast
 
 I enjoy building intuitive designs and analyzing data to find the best solutions.
 
 💻 About Me
-
 ---
+
 **🔭 I’m currently focused on UI/UX design projects to refine my design principles and user experience skills.
 
 
@@ -32,7 +32,6 @@ I enjoy building intuitive designs and analyzing data to find the best solutions
  
 
 🔥 Featured Projects
-
 ---
 Projects that highlight design and data skills.
 
@@ -56,8 +55,8 @@ Tech Stack: Python numpy pandas MySQL MySQL workbench Power BI Kaggle
 
 
 📈 GitHub Stats
-
 ---
+
 Showing my activity and contributions.
 
 
