@@ -1,3 +1,4 @@
+p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h1 p align="center"</h1>
  Hi there 👋  I’m Shaheema Izzath
@@ -23,7 +24,6 @@ I enjoy building intuitive designs and analyzing data to find the best solutions
 
 **⚡ Fun fact: I see a good wireframe and a clean dataset as the same thing: a perfectly organized solution to a complex problem.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 🛠️ Tech Stack & Tools
 ---
