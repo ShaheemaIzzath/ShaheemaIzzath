@@ -63,6 +63,12 @@ Tech Stack: Python numpy pandas MySQL MySQL workbench Power BI Kaggle
 https://[(github-readme-activity-graph.vercel.app/graph?username=ShaheemaIzzath&theme=react-dark)](https://github.com/ShaheemaIzzath/github-readme-activity-graph)
 
 
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShaheemaIzzath&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ 
+
+
 Top Langs
 ---
 
