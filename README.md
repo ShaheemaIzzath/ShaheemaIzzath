@@ -1,6 +1,6 @@
 
 
-Hi there 👋 <h1>p align="center"</h1> I’m Shaheema Izzath
+Hi there 👋  I’m Shaheema Izzath
 
 🎨 Aspiring UI/UX Designer and a Data Enthusiast
 
@@ -62,7 +62,7 @@ Showing my activity and contributions.
 
 ShaheemaIzzath's GitHub stats
 
-h3 class="code-line" data-line-start=219 data-line-end=220 ><a id="_GitHub_Stats_219"></a>📈 GitHub Stats</h3>
+<h3><a id="_GitHub_Stats_219"></a>📈 GitHub Stats</h3>
 <p class="has-line-data" data-line-start="221" data-line-end="222">Showing my activity and contributions.</p>
 <p class="has-line-data" data-line-start="223" data-line-end="224"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ShaheemaIzzath&amp;show_icons=true&amp;theme=vue" alt="ShaheemaIzzath's GitHub stats"></a></p>
 
