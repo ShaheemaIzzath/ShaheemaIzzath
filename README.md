@@ -27,19 +27,13 @@ Category	Technologies
 
 Languages
   
-<img src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50"
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" 
-src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css.png" />
-Frameworks & libraries <img height="48" width="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external 
--react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
-Databases <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-Design	src=<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-photoshop-a-raster-graphics-editor-developed-and-published-by-adobe-logo-color-tal-revivo.png" alt="external-photoshop-a-raster-graphics-editor-developed-and-published-by-adobe-logo-color-tal-revivo"/>
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-illustrator-a-vector-graphics-editor-developed-and-marketed-by-adobe-logo-color-tal-revivo.png" alt="external-illustrator-a-vector-graphics-editor-developed-and-marketed-by-adobe-logo-color-tal-revivo"/>
-Data/Analytics <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="48" height="48"  src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" /> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" 
+ <img height="48" width="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external 
+-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/> 	src=<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img src="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-illustrator-a-vector-graphics-editor-developed-and-marketed-by-adobe-logo-color-tal-revivo.png" alt="external-illustrator-a-vector-graphics-editor-developed-and-marketed-by-adobe-logo-color-tal-revivo"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="48" height="48"  src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021--v1.png"/> <img src="https://img.icons8.com/material-outlined/24/github.png"/>
 
+
+ 
 
 
 
