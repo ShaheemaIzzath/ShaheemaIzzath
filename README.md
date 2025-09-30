@@ -1,16 +1,11 @@
 
 <h1 p align="center"</h1>
  Hi there 👋  I’m Shaheema Izzath
-<p align="center">
-  <a href="https://github.com/DanveerCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=UI/UX Designer+@bld.ai;Data+Analyst;Continuos+Learner;Learning+and+Innovating new things;Expert+on+Creative ideas;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
-</p>
-
-
+ 
 🎨 Aspiring UI/UX Designer and a Data Enthusiast
 
 I enjoy building intuitive designs and analyzing data to find the best solutions.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 💻 About Me
 ---
@@ -28,6 +23,7 @@ I enjoy building intuitive designs and analyzing data to find the best solutions
 
 **⚡ Fun fact: I see a good wireframe and a clean dataset as the same thing: a perfectly organized solution to a complex problem.
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 🛠️ Tech Stack & Tools
 ---
