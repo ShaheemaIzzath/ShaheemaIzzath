@@ -8,21 +8,23 @@ I enjoy building intuitive designs and analyzing data to find the best solutions
 
 💻 About Me
 
-🔭 I’m currently focused on UI/UX design projects to refine my design principles and user experience skills.
+---
+**🔭 I’m currently focused on UI/UX design projects to refine my design principles and user experience skills.
 
-🌱Currently enhancing my expertise in Data Analytics while learning React.js to strengthen my analytical capabilities and backend understanding.
 
-👯 Eager to collaborate on Full-Stack Development (front-end and back-end) and Data Analysis projects.
+**🌱Currently enhancing my expertise in Data Analytics while learning React.js to strengthen my analytical capabilities and backend understanding.
 
-💬 Ask me about wireframing, creative front-end design ideas, and data analysis & visualization.
+**👯 Eager to collaborate on Full-Stack Development (front-end and back-end) and Data Analysis projects.
 
-📫 How to reach me: shaheemaizzath.designer@gmail.com
+**💬 Ask me about wireframing, creative front-end design ideas, and data analysis & visualization.
 
-⚡ Fun fact: I see a good wireframe and a clean dataset as the same thing: a perfectly organized solution to a complex problem.
+**📫 How to reach me: shaheemaizzath.designer@gmail.com
+
+**⚡ Fun fact: I see a good wireframe and a clean dataset as the same thing: a perfectly organized solution to a complex problem.
 
 
 🛠️ Tech Stack & Tools
-  
+---
 <img src="https://img.icons8.com/color/48/000000/python.png" /> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
  <img height="48" width="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external 
 -react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/><img src="https://img.icons8.com/color/48/adobe-xd--v1.png"/><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-illustrator-a-vector-graphics-editor-developed-and-marketed-by-adobe-logo-color-tal-revivo.png" alt="external-illustrator-a-vector-graphics-editor-developed-and-marketed-by-adobe-logo-color-tal-revivo"/>
@@ -31,21 +33,22 @@ I enjoy building intuitive designs and analyzing data to find the best solutions
 
 🔥 Featured Projects
 
+---
 Projects that highlight design and data skills.
 
-Portfolio Website
+**Portfolio Website
 
 A responsive design showcasing my best work and skills.
 
 Tech Stack: Figma
 
-Drone E-Commerce Website
+**Drone E-Commerce Website
 
 A high-fidelity conceptual design for an online drone store, focusing on an intuitive user flow and modern aesthetic.
 
 Tech Stack: Adobe XD Illustrator
 
-Social Media Engagement Analysis
+**Social Media Engagement Analysis
 
 A comprehensive project analyzing Youtube and Instagram metrics to identify user engagement trends and inform strategic content decisions.
 
@@ -54,6 +57,7 @@ Tech Stack: Python numpy pandas MySQL MySQL workbench Power BI Kaggle
 
 📈 GitHub Stats
 
+---
 Showing my activity and contributions.
 
 
