@@ -60,8 +60,11 @@ Tech Stack: Python numpy pandas MySQL MySQL workbench Power BI Kaggle
 <p class="has-line-data" data-line-start="221" data-line-end="222">Showing my activity and contributions.</p>
 <p class="has-line-data" data-line-start="223" data-line-end="224"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ShaheemaIzzath&amp;show_icons=true&amp;theme=vue" alt="ShaheemaIzzath's GitHub stats"></a></p>
 
+https://[github-readme-activity-graph.vercel.app/graph?username=ShaheemaIzzath&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 Top Langs
+---
 
 <p class="has-line-data" data-line-start="225" data-line-end="226"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheemaIzzath&amp;layout=compact&amp;theme=vue" alt="Top Langs"></a></p>
                                                                                                                                                                                                                                                                 
@@ -71,7 +74,6 @@ Let’s connect and build something amazing!)
 
 
   <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaheema-izzath) "target="_blank"/> <br/> <a href=""><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"></a><br> "target="blank"/><a href="mailto:shaheemaizzath.designer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a> target="blank</p>
-
 
 
 
