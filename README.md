@@ -57,21 +57,16 @@ Tech Stack: Python numpy pandas MySQL MySQL workbench Power BI Kaggle
 📈 GitHub Stats
 ---
 
-Showing my activity and contributions.
-
-
-ShaheemaIzzath's GitHub stats
-
-<h3><a id="_GitHub_Stats_219"></a>📈 GitHub Stats</h3>
 <p class="has-line-data" data-line-start="221" data-line-end="222">Showing my activity and contributions.</p>
 <p class="has-line-data" data-line-start="223" data-line-end="224"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ShaheemaIzzath&amp;show_icons=true&amp;theme=vue" alt="ShaheemaIzzath's GitHub stats"></a></p>
 
 
 Top Langs
 
-<p class="has-line-data" data-line-start="225" data-line-end="226"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheemaIzzath&amp;layout=compact&amp;theme=vue" alt="Top Langs"></a></p
+<p class="has-line-data" data-line-start="225" data-line-end="226"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheemaIzzath&amp;layout=compact&amp;theme=vue" alt="Top Langs"></a></p>
                                                                                                                                                                                                                                                                 
 🌐 Connect With Me
+
 Let’s connect and build something amazing!)
 
 
