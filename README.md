@@ -2,6 +2,9 @@
 <h1 p align="center"</h1>
  Hi there 👋  I’m Shaheema Izzath
 
+<p align="center">
+  <a href="https://github.com/ShaheemaIzzath/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX%20Designer;Data%20Analyst;Always%20learning%20innovating%20new things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 🎨 Aspiring UI/UX Designer and a Data Enthusiast
 
 I enjoy building intuitive designs and analyzing data to find the best solutions.
