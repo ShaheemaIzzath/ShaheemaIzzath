@@ -1,5 +1,5 @@
 
-
+<h1 p align="center"</h1>
  Hi there 👋  I’m Shaheema Izzath
 
 🎨 Aspiring UI/UX Designer and a Data Enthusiast
