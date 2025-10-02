@@ -21,7 +21,7 @@ I enjoy building intuitive designs and analyzing data to find the best solutions
 
 •💬 Ask me about wireframing, creative front-end design ideas, and data analysis & visualization.
 
-•📫 How to reach me: shaheemaizzath.designer@gmail.com
+•📫 How to reach me: shaheemashaheemaizzath@gmail.com
 
 •⚡ Fun fact: I see a good wireframe and a clean dataset as the same thing: a perfectly organized solution to a complex problem.
 
